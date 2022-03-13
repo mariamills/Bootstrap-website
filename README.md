@@ -1,6 +1,6 @@
 # Bootstrap-website
  
-A frontend website created using Bootstrap 5.
+A front-end website created using Bootstrap 5.
 
 
 Screenshot(s):
